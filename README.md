@@ -160,9 +160,9 @@
 </head>
 <body>
     <header>
-        <h1>Your Full Name</h1>
+        <h1>Andrei Huerta</h1>
         <p>Web Developer</p>
-        <img src="profile.jpg" alt="Your Profile Picture">
+<img src="profile.jpg" alt="Your Profile Picture"width="200" height="300">
     </header>
 
   <nav>
